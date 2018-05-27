@@ -1,0 +1,11 @@
+security:
+  oauth2:
+    client:
+      clientId: 0oaf79s5c24cU263z0h7
+      clientSecret: p7WKbTBdK8T_WtSXS0PUHq5uC-olYoYm4TTQ8ZJc
+      accessTokenUri: https://dev-584526.oktapreview.com/oauth2/default/v1/token
+      userAuthorizationUri: https://dev-584526.oktapreview.com/oauth2/default/v1/authorize
+      clientAuthenticationScheme: form
+      scope: openid profile email
+    resource:
+      userInfoUri: https://dev-584526.oktapreview.com/oauth2/default/v1/userinfo
